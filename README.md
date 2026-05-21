@@ -10,7 +10,7 @@ This repository contains the analysis for Exercise 7, focusing on the `EFIplus_m
 3. **Parsimonious Model:** Assessing multicollinearity through Variance Inflation Factor (VIF) to build a stable, simplified regression model.
 
 ## Files in this Repository
-* `nome_do_teu_ficheiro.py` (ou `.ipynb`): Main script containing data processing, modeling, and visualization.
+* `ex8avcad.ipynb`: Main script containing data processing, modeling, and visualization.
 * `EFIplus_medit.csv`: The dataset used for the analysis.
 
 ## Required Libraries
